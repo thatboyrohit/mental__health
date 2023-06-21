@@ -30,7 +30,7 @@ backgroundColor: Colors.blue.shade800,
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                //Hi User!!! hello
+                //Hi User!!!
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
